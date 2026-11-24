@@ -33,7 +33,6 @@ Sanbase also includes advanced alerting tools to notify users of unusual activit
 
 ---
 
-![Sanbase Dashboard](https://santiment.net/static/sanbase-5267d6dbe2ec8569efc88b3a040ec292.png)  
 
 ---
 
